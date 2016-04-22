@@ -1,2 +1,2 @@
 # Meme-Generator
-Meme Generator App made with jQuery
+Simple Meme Generator App made with jQuery
